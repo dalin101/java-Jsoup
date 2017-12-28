@@ -1,2 +1,2 @@
 # java-Jsoup
-serve as Google by using Soup
+serve as Google by using Jsoup
